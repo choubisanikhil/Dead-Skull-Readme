@@ -1,6 +1,6 @@
 # Zombie-Buster
 
-Story >
+Story >                                                                                                                                                                                                                                                                                                                                                        
 There was attacked a city by Zombies. You Have to bust them and save the city. Black Face is Alive in the city. And he go to bust the Zombies. The King of all Zombies is Atomic Devil. He is very powerfull. If We kill him Mayor gave the prize of 500 Coins and if we kill 1 Zombie he gave us 100 Coins. Now Black Face wants to save the city and he Wants Help! can you help him to save the city please!
 
 
