@@ -6,10 +6,10 @@
 * Goal Of The Game >                                                                                                                     
 : The Goal Of The Game is Bust all the Zombies and help the Dark Beast. Explore all the city and bust the Zombies and Specialy The Bloody Skull. You have a gun to bust them. If you kill the Zombies Mayor will reward you.                                                                                                                                     
 
-* PC's >                                                                  
+* Playing Character's >                                                                  
 : Dark Beast                                                                                                                                                                     
 
-* NPC's >                                                                                                                                       
+* Non Playing Character's >                                                                                                                                       
 : Bloody Skull                                                                                                                                                                   
 : Zombies                                                                                                                                                                       
 : Rocks                                                                                                                                                                         
