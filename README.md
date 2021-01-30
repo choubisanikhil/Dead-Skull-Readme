@@ -25,14 +25,10 @@
   *| Function of Dark Beast >                                                                                                                                                   
      : Dark Beast Have To Bust All The Zombies And Walker Virus With A Gun. The Gun Is Operate By The Enter Key And Target The Zombies With Arrow Keys. Avoid All Rocks And Plants From Jump With The Space Key.                                                                                                                                             
 
-  *| Function of Rocks And Plants >                                                                                                                                             
-     : If Dark Beast Touch To Rocks And Plants. Then Game Get End.                                                                                                            
+  *| Function of Rocks And Plants >                                                                                                                                              : If Dark Beast Touch To Rocks And Plants. Then Game Get End.                                                                                                            
 
-  *| Function of Zombies >                                                                                                                                                      
-     : If Dark Beast Bust The Zombies It Gets 100 Coins.                                                                                                                      
+  *| Function of Zombies >                                                                                                                                                       : If Dark Beast Bust The Zombies It Gets 100 Coins.                                                                                                                      
 
-  *| Function of Bloody Skull >                                                                                                                                                 
-     : If Dark Beast Bust The Bloody Skull It Gets 500 Coins.                                                                                                                 
+  *| Function of Bloody Skull >                                                                                                                                                  : If Dark Beast Bust The Bloody Skull It Gets 500 Coins.                                                                                                                 
 
-  *| Function of Coins >                                                                                                                                                         
-     : Coins Are A Means Of Sharing Gaming Experiences With Other Peoples. It Usally Like Scores.
+  *| Function of Coins >                                                                                                                                                          : Coins Are A Means Of Sharing Gaming Experiences With Other Peoples. It Usally Like Scores.
