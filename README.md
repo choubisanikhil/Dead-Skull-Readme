@@ -1,10 +1,10 @@
 # | Zombie Buster |
 
-| Story Of The Game >                                                                                                                                                           
-:There was attacked a city by Zombies. You Have to bust them and save the city. Dark Beast is Alive in the city. And he go to bust the Zombies. The King of all Zombies is Bloody Skull. He is very powerfull. If We kill him Mayor gave the prize of 500 Coins and if we kill 1 Zombie he gave us 100 Coins. Now Dark Beast wants to save the city and he Wants Help! can you help him to save the city please!                                                                                                                           
+* | Story Of The Game >                                                                                                                                                         
+: There was attacked a city by Zombies. You Have to bust them and save the city. Dark Beast is Alive in the city. And he go to bust the Zombies. The King of all Zombies is Bloody Skull. He is very powerfull. If We kill him Mayor gave the prize of 500 Coins and if we kill 1 Zombie he gave us 100 Coins. Now Dark Beast wants to save the city and he Wants Help! can you help him to save the city please!                                                                                                                           
 
 | Goal Of The Game >                                                                                                                                                             
-:The Goal Of The Game is Bust all the Zombies and help the Dark Beast. Explore all the city and bust the Zombies and Specialy The Bloody Skull. You have a gun to bust them. If you kill the Zombies Mayor will reward you.                                                                                                                                     
+: The Goal Of The Game is Bust all the Zombies and help the Dark Beast. Explore all the city and bust the Zombies and Specialy The Bloody Skull. You have a gun to bust them. If you kill the Zombies Mayor will reward you.                                                                                                                                     
 
 | PC's >                                                                                                                                                                         
 : Dark Beast                                                                                                                                                                     
