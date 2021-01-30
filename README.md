@@ -1,4 +1,4 @@
-# | Dead Skull |
+# | Dead Skull |                      
 
 * Story Of The Game >                                                                                                                                 
 : There Was Attacked A City By Zombies. You Have To Bust Them And Save The City. Dark Beast Is Alive In The City. And He Go To Bust The Zombies. The King Of All Zombies Is Bloody Skull. He Is Very Powerfull. If We Kill 1 Zombie Mayor Of The City Gave Us 100 Coins And If We Kill Bloody Skull Mayor Gave Us 500 Coins. Now Dark Beast Wants To Save The City And He Wants Help! Can You Help Him To Save The City, Please!                                                                                    
