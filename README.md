@@ -34,4 +34,4 @@
   :: If Dark Beast Bust The Bloody Skull It Gets 500 Coins.                                                                                                                 
 
   | Function Of Coins >                                                                                                                                                        
-  :: Coins Are A Means Of Sharing Gaming Experiences With Other Peoples. It Usally Like Scores.
+  :: Coins Are A Means Of Sharing Gaming Experiences With Other Peoples. It Usually Like Scores.
