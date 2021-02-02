@@ -18,7 +18,7 @@
 
 
 * Specific Tasks >                                                                                                                                       
-: Dark Beast Have To Kill All The Zombies By A Gun. Jump To Rocks And Plants. Get More And More Coins From Mayor Of The City.                                                   
+: Dark Beast Have To Bust All The Zombies And Bloody Skull With A Gun. The Gun Is Operate By The Enter Key And Target The Zombies With Arrow Keys. Avoid All Rocks And Plants From Jump With The Space Key.Get More And More Coins From The Mayor Of The City.                                                                                                                                             
 
 * Functions >                                                                                                                                                                   
 
