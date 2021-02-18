@@ -7,7 +7,8 @@
 : The Goal Of The Game Is Bust All The Zombies And Help The Dark Beast. Explore All The City And Bust The Zombies And Specialy The Bloody Skull. You Have A Gun To Bust Them. If You Kill The Zombies Mayor Will Reward You.                                                                                                                                     
 
 * Playing Character's >                                                                  
-: Dark Beast                                                                                                                                                                     
+: Dark Beast  
+: Gun
 
 * Non Playing Character's >                                                                                                                                       
 : Bloody Skull                                                                                                                                                                   
@@ -17,12 +18,12 @@
 : Coins                                                                                                                                                                         
 
 * Specific Tasks >                                                                                                                                       
-: Dark Beast Have To Bust All The Zombies And Bloody Skull With A Gun. The Gun Is Operate By The Enter Key And Target The Zombies With Arrow Keys. Avoid All Rocks And Plants From Jump With The Space Key. Get More And More Coins From The Mayor Of The City.                                                                                             
+: Dark Beast Have To Bust All The Zombies And Bloody Skull With A Gun. The Gun Is Operate By The Enter Key. Avoid All Rocks And Plants From Jump With The Space Key. Get More And More Coins From The Mayor Of The City.                                                                                             
 
 * Functions >                                                                                                                                                                   
 
   | Function of Dark Beast >                                                                                                                                                   
-  :: Dark Beast Have To Bust All The Zombies And Bloody Skull With A Gun. The Gun Is Operate By The Enter Key And Target The Zombies With Arrow Keys. Avoid All Rocks And Plants From Jump With The Space Key.                                                                                                                                             
+  :: Dark Beast Have To Bust All The Zombies And Bloody Skull With A Gun. The Gun Is Operate By The Enter Key. Avoid All Rocks And Plants From Jump With The Space Key.       
 
   | Function Of Rocks And Plants >                                                                                                                                            
   :: If Dark Beast Touch To Rocks And Plants. Then Game Get End.                                                                                                            
@@ -32,6 +33,9 @@
 
   | Function Of Bloody Skull >                                                                                                                                                 
   :: If Dark Beast Bust The Bloody Skull It Gets 500 Coins.                                                                                                                 
+
+  | Function Of Gun >
+  :: The Gun Is Operate By The Enter Key.
 
   | Function Of Coins >                                                                                                                                                        
   :: Coins Are A Means Of Sharing Gaming Experiences With Other Peoples. It Usually Like Scores.
